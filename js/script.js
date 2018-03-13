@@ -44,8 +44,3 @@ document.getElementById("excusa_random").innerHTML = excusa;
 // console.log(num5)
 
 
-
-
-
-
-// Un cono de helado solutario quemo mi dedo en el baño
